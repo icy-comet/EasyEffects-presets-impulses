@@ -16,12 +16,13 @@ Note: For mic input preset, set microphone volume at 10% (-60dB).
 https://github.com/Digitalone1/EasyEffects-Presets
 
 ## Sources & Credits
-- https://github.com/rkdhanda/PulseEffects-Preset (Last updated: 16-01-2020)
-- https://github.com/Weeb-Linux/BambooSound (Last Updated: 03-09-2020)
-- https://github.com/eedeidk/PulseAudio-IRSs (Last Updated: 29-04-2020)
-- https://github.com/herobrine30396/Pulseeffects-music-EQ (Last Updated: 03-04-2021)
-- https://gist.github.com/Mlocik97/03c87007af2a4af4ffc2f464e1e2b640 (Last Updated: 08-07-2021) (mic input preset)
-- https://github.com/wwmm/easyeffects
+- https://github.com/JackHack96/PulseEffects-Presets/ (Last updated: 04-09-2021)
+- https://github.com/rkdhanda/PulseEffects-Preset/ (Last updated: 16-01-2020)
+- https://github.com/Weeb-Linux/BambooSound/ (Last Updated: 03-09-2020)
+- https://github.com/eedeidk/PulseAudio-IRSs/ (Last Updated: 29-04-2020)
+- https://github.com/herobrine30396/Pulseeffects-music-EQ/ (Last Updated: 03-04-2021)
+- https://gist.github.com/Mlocik97/03c87007af2a4af4ffc2f464e1e2b640/ (Last Updated: 08-07-2021) (mic input preset)
+- https://github.com/wwmm/easyeffects/
 
 The files were converted using the following site:
 https://pe-to-ee-preset-converter.herokuapp.com/
